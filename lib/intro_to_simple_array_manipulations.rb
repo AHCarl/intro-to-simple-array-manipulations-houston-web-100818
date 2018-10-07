@@ -37,3 +37,11 @@ end
 def using_flatten(a)
   a.flatten 
 end
+
+def using_delete(a, s)
+  a.delete(s)
+end
+
+def using_delete_at
+  
+end

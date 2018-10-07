@@ -30,8 +30,8 @@ def using_insert(a, e)
   a.insert(4, e)
 end
 
-def using_uniq
-  
+def using_uniq(a)
+  a.uniq 
 end
 
 def using_flatten
